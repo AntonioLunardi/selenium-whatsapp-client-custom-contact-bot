@@ -1,4 +1,4 @@
-# WhatsApp Client Custom Contact Bot
+# Selenium WhatsApp Client Custom Contact Bot
 WhatsApp bot that contact customers from royal state companies, approaching clients according to their purchase power
 
 According to lead's last property interest, the application classify customers on categories: economic, medium, medium-high and high. It is simply about the price. The idea is that client should receive an apropriate treatment for improving communication and empathy. Those worries are essential for sales.
