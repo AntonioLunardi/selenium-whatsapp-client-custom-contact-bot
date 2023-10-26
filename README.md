@@ -5,4 +5,4 @@ According to lead's last property interest, the application classify customers o
 
 The recomended products are the ones that the royal state angency wants its brokers to focus.
 
-Due to the WhatsApp frequent updates it is important for the bot to be updated constantly.
+Due to WhatsApp frequent updates it is important for the bot to be updated constantly.
